@@ -1,0 +1,12 @@
+{
+    "blocked": [
+      "/drk.routes.json",
+      "/drk.config.json",
+      "/drk.exe"
+    ],
+    "routes":{
+        "/": "index.html"
+    },
+    "port": 7604
+  }
+  
