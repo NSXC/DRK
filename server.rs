@@ -1,3 +1,7 @@
+//NOTES
+//FAVICON BROKEN IN SUB FOLDERS :(
+//ADDED: THREAD POOLS and MALTI THREAD
+
 use serde::{Deserialize, Serialize};
 use std::collections::HashMap;
 use std::fs;
