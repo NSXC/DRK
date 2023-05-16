@@ -12,7 +12,11 @@ While DRK does not have a backend yet it will be added soon.
 ## Info
 
 Nextjs Lighthouse Score: 60%
+
 PHP Lighthouse Score: 75%
+
 Express Lighthouse Score: 70%
+
 Rocket Rust Lighthouse Score: 80%
-### DRK Server Lighthouse Score: 98%
+
+#### DRK Server Lighthouse Score: 98%
