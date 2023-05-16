@@ -10,6 +10,7 @@ While DRK does not have a backend yet it will be added soon.
 
 
 ## Info
+The following are the no bais average speed for loading our webpage with no backend code just files
 
 Nextjs Lighthouse Score: 60%
 
