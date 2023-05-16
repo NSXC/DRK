@@ -7,6 +7,9 @@
     "routes":{
         "/": "index.html"
     },
-    "port": 7604
+    "port": 7604,
+    "fingerprint-blocked":{
+        "5c606c5006f1cddd18b47a57a7836cc8"
+    }
   }
   
