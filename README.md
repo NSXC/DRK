@@ -21,3 +21,8 @@ Express Lighthouse Score: 70%
 Rocket Rust Lighthouse Score: 80%
 
 #### DRK Server Lighthouse Score: 98%
+
+
+## fingerprints
+
+DRK servers fingerprint each user based on a lot of info each fingerprint will have a hash the hash 5c606c5006f1cddd18b47a57a7836cc8 is bots 
